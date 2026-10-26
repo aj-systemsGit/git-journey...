@@ -4,4 +4,4 @@ four
 2
 1
 see if fetch works
-
+What is i don't want to use fetch, I want direct sync
